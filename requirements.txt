@@ -1,0 +1,6 @@
+pywin32
+lxml
+numpy
+matplotlib
+pillow
+pymupdf

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.bak
+*.tmp
+*.tmp.hwpx
+# 저작권이 있는 원본 시험지와 그 변환물은 올리지 않는다
+*.hwp
+*.pdf
+_stage/
+out/
